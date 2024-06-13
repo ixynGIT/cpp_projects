@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1718298020 source:d:\raprap\c++\firstproject\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1718197846 source:d:\raprap\c++\firstproject\parent.cpp
+
+1718223506 source:d:\raprap\c++\firstproject\linked_list.cpp
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+
