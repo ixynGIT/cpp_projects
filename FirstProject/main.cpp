@@ -24,7 +24,7 @@ class NumberGuessingGame {
          bool guessedCorrectly = false;
 
          cout << "Guess the number!" << endl;
-         cout << "Between 1 and 100" << endl;
+         cout << "Between 1 and 100." << endl;
 
          while (currentGuess < maxGuesses && !guessedCorrectly) {
             cout << "Enter your guess (" << (maxGuesses - currentGuess) << " guesses left): ";
